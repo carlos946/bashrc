@@ -149,7 +149,7 @@ alias gaa='git add --all'
 alias gc='git commit -m'
 
 # View the Git lo
-alias gl='git log --online'
+alias gl='git log'
 
 # Create a new Git branch and move the new branch at the same time
 alias gb='git checkout -b'
