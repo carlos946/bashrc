@@ -146,7 +146,7 @@ alias ga='git add'
 alias gaa='git add --all'
 
 # Commit changes to the code
-alias gc='git commit'
+alias gc='git commit -m'
 
 # View the Git lo
 alias gl='git log --online'
