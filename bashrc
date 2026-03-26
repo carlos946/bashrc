@@ -135,3 +135,24 @@ fastfetch
 
 # ASDF tool
 . "$HOME/.asdf/asdf.sh"
+
+# View Git status
+alias gs='git status'
+
+# Add a file to Git
+alias ga='git add'
+
+# Add all files to Git
+alias gaa='git add --all'
+
+# Commit changes to the code
+alias gc='git commit'
+
+# View the Git lo
+alias gl='git log --online'
+
+# Create a new Git branch and move the new branch at the same time
+alias gb='git checkout -b'
+
+# View the diffrence
+alias gd='git diff'
